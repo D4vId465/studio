@@ -1,0 +1,26 @@
+.bila-uprostred {
+    color: rgb(202, 211, 236);
+    text-align: center;
+}
+p {
+    size: 40pt;
+}
+.ol1 {
+    color: white;
+}
+.ol2 {
+    color: brown;
+}
+.li1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.li2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-image: url(astrofyzik.jpg);
+    background-size: cover;
+}
+.ul1 {
+    list-style-type: square;
+}
